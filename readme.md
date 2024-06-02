@@ -1,0 +1,1 @@
+In case you can't connect to my cloud, you can import the database by ADY201m_AS01.bacpac 
